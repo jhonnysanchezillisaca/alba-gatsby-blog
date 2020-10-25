@@ -4,7 +4,7 @@ title: L’amor i la por
 slug: l-amor-i-la-por
 date: 2020-10-25 12:58
 description: Poesia
-featuredImage: /assets/0cb48db0-92f6-4f89-8659-f21e304b8544.jpeg
+featuredImage: /assets/42c37ffc-064b-4d3b-bf99-03c45b7bbdb7.jpeg
 ---
 No ho puc dir amb certesa, però crec que aquesta poesia la vaig escriure l’any 2012. Vaig tenir una època en què em va donar per aquí. En conservo poques, i al meu gust aquesta és la més rellevant. Hagués estat bé escriure’n més. Sovint ho penso. Quna la vaig escriure recordo que em rondava pel cap aquesta cita: 
 
