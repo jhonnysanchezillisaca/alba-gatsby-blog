@@ -4,13 +4,13 @@ title: L’amor i la por
 slug: l-amor-i-la-por
 date: 2020-10-25 12:58
 description: Poesia
-featuredImage: /assets/1a0cc12a-31ad-472b-b566-c2b8d3c4a852.jpeg
+featuredImage: /assets/0cb48db0-92f6-4f89-8659-f21e304b8544.jpeg
 ---
-No ho puc dir amb certesa, però crec que aquesta poesia la vaig escriure l’any 2012. A raó de què no ho sé. Però em segueix agradant. Vaig tenir una època en què em va donar per aquí. En conservo poques, i al meu gust aquesta és la més rellevant. Hagués estat bé escriure’n més. Sovint ho penso.
-
-Segurament em devia rondar pel cap aquesta cita de Bahá’u’lláh:
+No ho puc dir amb certesa, però crec que aquesta poesia la vaig escriure l’any 2012. Vaig tenir una època en què em va donar per aquí. En conservo poques, i al meu gust aquesta és la més rellevant. Hagués estat bé escriure’n més. Sovint ho penso. Quna la vaig escriure recordo que em rondava pel cap aquesta cita: 
 
 > El amor es una luz que no brilla nunca en un corazón poseído por el miedo.
+>
+> Bahá’u’lláh
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
