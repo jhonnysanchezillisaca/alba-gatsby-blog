@@ -40,7 +40,7 @@ const HomePage = ({ data }) => {
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
 	return (
 		<Layout>
-      <SEO/>
+      {/* <SEO/> */}
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 class="title">{frontmatter.title}</h1>
