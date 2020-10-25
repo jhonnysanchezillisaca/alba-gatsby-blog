@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Alba Cirera",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Aquest bloc mostra una mica de mi, per suposat. No sé ben bé què, però no va de mi. Només faltaria. La raó de ser és expressar i comparir. També buscar sentit. Les formes poden variar. Potser trobarem poesia, dibuixos, cançons, ressenyes i reflexions sobre temàtiques d’interès... qui sap. Millor anar-ho explorant en el procés.",
+    "siteUrl": "https://blog.albacirera.com",
+    "image": "/assets/alexander-andrews-zw07kvdahpw-unsplash.jpg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
