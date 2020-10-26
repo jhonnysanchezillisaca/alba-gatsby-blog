@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: L’amor i la por
-slug: l-amor-i-la-por
+slug: /l-amor-i-la-por
 date: 2020-10-25 12:58
 description: Poesia
 featuredImage: /assets/untitled_artwork-1.jpg
