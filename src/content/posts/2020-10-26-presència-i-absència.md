@@ -6,8 +6,7 @@ date: 2020-10-26 15:42
 description: Dibuix
 featuredImage: /assets/9d8ac112-2095-457d-95d8-f8e53da404cf.jpeg
 ---
-Amplitud, visió, llibertat, poder, expressió, moviment, claredat, fortalesa, vida, sentiments, sensacions, pensaments, transparència, vagatge, matisos, mescles, contrastos, delicadesa, expresió
-Profunditat
+Amplitud, visió, llibertat, poder, expressió, moviment, claredat, fortalesa, vida, sentiments, sensacions, pensaments, transparència, vagatge, matisos, mescles, contrastos, delicadesa, expressió, profunditat.
 
 **Ànima**
 
