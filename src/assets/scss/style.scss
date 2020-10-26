@@ -211,11 +211,6 @@
     color: rgba(0,0,0,0.6)
   }
 }
-@media (max-width: $breakpoint-sm) {
-  .post-card .featured-image {
-    min-height: 300px;
-  }
-}
 article figure {
 	margin: 40px 0;
 	text-align: center;
@@ -245,10 +240,15 @@ article img {
 	line-height: 1.5;
 	font-size: 20px;
 }
+.blog-post-image {
+	max-width: 70ch;
+	margin:0 auto;
+	padding: 20px;
+}
 
 .blog-post {
 	.featured-image {
-		min-height: 50vh;
+		min-height: 30vh;
 		border-radius: 12px;
 	}
 }
