@@ -47,4 +47,6 @@ Puede ser doloroso,
 Hermoso al mismo tiempo
 Puede ponerte a prueba
 Ayudarte en la búsqueda \
-de la excelencia
+de la excelencia.
+
+![](/assets/untitled_artwork.jpg)
