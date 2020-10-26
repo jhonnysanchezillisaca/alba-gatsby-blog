@@ -48,5 +48,3 @@ Hermoso al mismo tiempo.\
 Puede ponerte a prueba,\
 Ayudarte en la búsqueda\
 de la excelencia.
-
-![](/assets/untitled_artwork.jpg)
