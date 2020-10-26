@@ -38,5 +38,3 @@ que si mirar enrere és fer força,\
 l’experiència és avançar,\
 que si somiar és realitat,\
 cercar a Déu és llibertat.*
-
-![](/assets/0cb48db0-92f6-4f89-8659-f21e304b8544.jpeg)
