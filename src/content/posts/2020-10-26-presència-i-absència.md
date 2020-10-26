@@ -14,3 +14,6 @@ Profunditat
 Dolor, debilitat, opacitat, incapacitat, silenci
 
 **Cos**
+
+
+![](/assets/9d8ac112-2095-457d-95d8-f8e53da404cf.jpeg "Presència i absència (Alba, quarentena 2020)")
