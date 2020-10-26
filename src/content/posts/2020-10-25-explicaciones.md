@@ -44,8 +44,8 @@ En mi, en los demás\
 Y con ellos
 
 Puede ser doloroso,
-Hermoso al mismo tiempo
-Puede ponerte a prueba
+Hermoso al mismo tiempo.
+Puede ponerte a prueba,
 Ayudarte en la búsqueda \
 de la excelencia.
 
