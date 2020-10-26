@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Explicaciones
-slug: explicaciones
+slug: /explicaciones
 date: 2020-10-25 14:11
 description: Poesia
 featuredImage: /assets/untitled_artwork.jpg
