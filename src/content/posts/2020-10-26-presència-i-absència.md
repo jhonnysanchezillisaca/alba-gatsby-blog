@@ -11,6 +11,6 @@ Profunditat
 
 **Ànima**
 
-Dolor, debilitat, opacitat incapacitat, silenci
+Dolor, debilitat, opacitat, incapacitat, silenci
 
 **Cos**
