@@ -2,7 +2,7 @@
 template: blog-post
 title: "Assaig: Què aporta una consideració sobre l’estrany a una perspectiva
   sobre la identitat?"
-slug: estranyidentitat
+slug: /estranyidentitat
 date: 2020-10-29 12:50
 description: Assaig identitat
 featuredImage: /assets/fefe21d6-3088-4264-a796-b9b4cab8f43c.jpeg
