@@ -13,7 +13,6 @@ Us convido a revisar aquest assaig, que si bé te uns anys i ara el faria difere
 >
 > **Alba Cirera Sant**\
 > **Universitat Autònoma de Barcelona**\
-> **Email: albacirera@gmail.com**\
 > **05, novembre del 2016.**
 >
 > Resum: *En la postmodernitat, en l’era de la modernitat reflexiva, la identitat ja no és quelcom estable. La noció d’estrany, que identifica aquell que és un distant però està pròxim (Simmel) ja no és una condició d’uns individus o grups determinats, sinó que és una condició universal. En el context de globalització, individualització i destradicionalització (Beck) l’individu ja no es sent d’enlloc, i és sempre un estrany. En aquest sentit proposem que l’estranyesa permet fer una aportació paradoxal a la sociologia de la identitat, que és que cada vegada té més sentit parlar no d’identitat sinó de la no-identitat.*
