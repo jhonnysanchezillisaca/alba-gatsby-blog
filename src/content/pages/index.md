@@ -8,4 +8,4 @@ cta:
   ctaText: Saber-ne més
   ctaLink: /about
 ---
-Hola, sóc l’Alba. [Líder comunitària a Sabadell sud](https://liderscomunitaris.org/). Bahà’í. Sociòloga de formació. Estudiant un [màster en polítiques socials i acció comunitària.](http://escoladeligop.com/presentacio/master/)
+Sociòloga, actualment estudiant el màster en Polítiques Públiques i Acció Comunitària de l’Institut de Govern i Polítiques Públiques (IGOP), i servint com a [líder comunitària a Sabadell sud](https://liderscomunitaris.org/).
