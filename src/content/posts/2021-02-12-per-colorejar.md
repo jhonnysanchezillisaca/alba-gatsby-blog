@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Per colorejar
-slug: colorejar
+slug: /colorejar
 date: 2021-02-12 21:38
 description: dibuixospercolorejar
 featuredImage: /assets/6d49d04a-1526-47eb-b4b0-ee2fc9001b57.jpeg
