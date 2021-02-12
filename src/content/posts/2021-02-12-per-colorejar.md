@@ -10,6 +10,6 @@ Comparteixo una [carpeta que et donarà acces a dibuixos per colorejar que anir�
 
 Avui pujo el primer. És una felicitació d’Ayyám-i-Há, una festivitat molt especial en el calendari bahá’í.
 
-De tant en tant obro un foli de procreate i començo a dibuixar una estoneta. Dibuixant vaig recordar als meus nebots i em va semblar bona idea fer-ne més pensant en ells. D’aquesta manera tinc alguns en procés. Els aniré penjant.
+De tant en tant obro un foli de procreate i començo a dibuixar una estoneta. Dibuixant vaig recordar als meus nebots i em va semblar bona idea fer-ne més pensant en ells. Tinc alguns en procés. Els aniré penjant.
 
 Espero que qui ho coloregi, sigui gran o petit, passi una bona estona.
