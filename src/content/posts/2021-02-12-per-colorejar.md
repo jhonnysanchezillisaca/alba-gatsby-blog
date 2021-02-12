@@ -6,7 +6,7 @@ date: 2021-02-12 21:38
 description: dibuixospercolorejar
 featuredImage: /assets/6d49d04a-1526-47eb-b4b0-ee2fc9001b57.jpeg
 ---
-Comparteixo una [carpeta que et donarà acces a dibuixos per colorejar que aniré pujant](https://1drv.ms/f/s!ArVx1I3Z4ALQg8UHeBEdDlqlhCwV9Q). Els trobaràs en format png i pdf.
+Comparteixo una [carpeta que et donarà acces a dibuixos per colorejar que aniré pujant](https://1drv.ms/f/s!ArVx1I3Z4ALQg8UHzhXqCCidSK6a9g). Els trobaràs en format png i pdf.
 
 Avui pujo el primer. És una felicitació d’Ayyám-i-Há, una festivitat molt especial en el calendari bahá’í.
 
