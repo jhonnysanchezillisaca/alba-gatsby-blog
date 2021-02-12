@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Benvinguts al blog de l’Alba Cirera
 tagline: Presentació
-featuredImage: /assets/3e377ab4-f957-46b8-83df-b896632788ec.jpeg
+featuredImage: /assets/photo_2020-08-17_00-34-10.jpg
 cta:
   ctaText: Saber-ne més
   ctaLink: /about
