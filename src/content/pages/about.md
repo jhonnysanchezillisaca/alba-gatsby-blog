@@ -5,7 +5,7 @@ title: Sobre el blog
 ---
 Bones, sóc l’Alba Cirera
 
-Sociòloga, actualment estudiant el màster en Polítiques Públiques i Acció Comunitària de l’Institut de Govern i Polítiques Públiques (IGOP).
+Sociòloga, actualment estudiant el màster en Polítiques Socials i Acció Comunitària de l’Institut de Govern i Polítiques Públiques (IGOP).
 
 El fet de ser bahà’í és el més definitori de qui sóc, o almenys això intento.
 
