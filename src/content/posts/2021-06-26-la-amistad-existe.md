@@ -1,0 +1,11 @@
+---
+template: blog-post
+title: La amistad existe
+slug: /laamistadexiste
+date: 2021-06-27 00:36
+description: La amistad existe
+featuredImage: /assets/895b6eab-ee2d-4d2c-9247-ee255c4c456d.jpeg
+---
+Hoy iba con algo de prisa cuando me paró un joven de más o menos mi edad para charlar. Al rato se acercó un vecino de mayor edad que iba bien cargado. Dejó las cosas en el suelo, nos escuchó atentamente por unos minutos y enseguida se sumó a la conversación. A veces me ven haciendo actividades en el local del barrio y en alguna ocasión hemos compartido algunas palabras sobre las cosas que suceden en el sector y la importancia de dedicarnos a aquello que construye. Ellos dicen que lo que hago es cambiar el mundo sin esperar nada a cambio. Me resultó curioso que se hubieran quedado con eso. Pareciera que el interés por comprender cómo eso es posible movió al joven a iniciar tal avalancha e intercambio de preguntas y argumentos.
+
+La conversación se alargó bastante y fue un torbellino. De un tema a otro, dejando frases sin acabar por contínuas interrupciones, con risas y lamentos…  Aparentemente no nos une nada, o eso pueden pensar muchos. La verdad es que expusimos opiniones muy distintas, pero llegamos a algunos puntos de acuerdo. Uno de ellos, que los problemas que enfrentamos son muy complejos. Otro, que para que las personas y el mundo progresen tenemos que desarrollar nuestra dimensión espiritual. Conversando sobre las necesidades del mundo y nuestro barrio pude percibir como salía a relucir esa aspiración de las personas de contribuir al progreso. Una de las cosas que el joven decía es que la amistad en realidad no existe, porque siempre hay un interés detrás. Así que él no quiere tener amigos. Cuando nos despedimos le dije que ya le consideraba un amigo, y él dijo que sentía lo mismo. Quizás podemos explorar otra forma de entender la amistad y ver cómo juntos podemos cambiar el mundo, le dije. Pidió que nos volvamos a juntar los tres el lunes, tomando un café, con calma, y que sigamos la conversación. Y así, avanzando en estas conversaciones, explorando juntos la verdad, dirigiendo nuestra mente a lo que nos permite progresar individual y colectivamente, material y espiritualmente, se construyen amistades y se cambia el mundo. Y por supuesto la amistad es desinteresada, la amistad se construye, y el mundo se cambia haciéndonos amigos.
